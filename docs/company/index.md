@@ -2,7 +2,7 @@
 title: company
 description:
 published: true
-date: "2025-01-12T19:44:05"
+date: "2025-10-04T17:31:20"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-12T21:08:56"
@@ -18,10 +18,25 @@ company 即公司，一些公司相关的内容会被收录到此版块（文件
 
 ## 简易内容
 
+### 百事可乐涂装争议
+
 2011年10月，百事可乐取消了一款特殊涂装设计的易拉罐，因为有顾客抱怨其设计像世界贸易中心（双子塔），导致被抵制。
 百事可乐公司对此表示：图像是在呼应迪拜的天际线，任何造成的冒犯都是意外。[^90311]
 
 [^90311]: BEN HARTMAN, 《[Pepsi scraps can after some say it evokes 9/11](https://web.archive.org/web/20230531090311/https://www.jpost.com/Features/In-Thespotlight/Pepsi-scraps-can-after-some-say-it-evokes-911)》, The Jerusalem Post | JPost.com, 2011-12-20. (参照 2025-01-12).
+
+### 卫龙辣条擦边低俗
+
+2022年3月 下旬，卫龙辣条的包装被指责存在擦边低俗的词语。包装上的词语，至少有以下内容：「贼辣」「贼大」「压惊」「冷静」
+「强硬」「干货」「耐嚼」「任性」「约吗」「动次」「打次」「胖次」，卫龙之后下架了相关争议产品。[^17554][^63800][^1i73b]
+
+[^17554]: 光明网, 《[卫龙辣条包装被指打低俗擦边球 回应称将配合市场监管部门调查](http://henan.china.com.cn/m/2022-03/26/content_41917554.html)》, 中国网, 2022-03-26. (参照 2025-10-04, [Internet Archive](https://web.archive.org/web/20220513101710/http://henan.china.com.cn/m/2022-03/26/content_41917554.html)).
+
+[^63800]: 吴容WR, 《[卫龙辣条外包装被指打色情擦边球，“低俗营销”为何屡禁不止？](https://www.jiemian.com/article/7263800.html)》, 界面新闻, 2022-03-28. (参照 2025-10-04, [Internet Archive](https://web.archive.org/web/20240617231612/https://www.jiemian.com/article/7263800.html)).
+
+[^1i73b]: 桔梗長眠, 《[卫龙亲嘴道](https://www.bilibili.com/video/BV1P34y1i73b/)》, 哔哩哔哩, 2022-04-17. (参照 2025-10-04).
+
+### 英伟达断供中国
 
 2024年12月9日，<ruby>英伟达<rt>NVIDIA</rt></ruby>因涉嫌违反反垄断法，而被市场监管总局调查。[^81708]
 英伟达方面对此没有立刻回应，期间有自媒体注意到，「英伟达GeForce旗舰店」下架了所有商品，页面显示「抱歉，没有相关宝贝」。

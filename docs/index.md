@@ -13,10 +13,10 @@ icon: material/home
 
 这里是收集许多的和谐游戏的百科，点击 [这里][/game] 跳转到游戏板块，然后从左边的树状列表进行查看条目。
 
-ggame 的含义是 GGAME Game Archive Modify Encyclopedia。[^ggame]
+ggame 的含义是 GGAME Game Archive & Modify Encyclopedia。[^ggame]
 
-[^ggame]: 其实没有什么特别含义，只是 gledos + game = ggame，gg 也表示 good game，有点消极结束游戏的含义。
-（即便 gg 原本是积极的含义）
+[^ggame]: 其实没有什么特别含义，以上全称是让 AI 生成的。原本的想法只是 gledos + game = ggame，gg 也表示 good game，
+有点消极结束游戏的含义。（即便 gg 原本是较积极的含义）
 
 <!--
 如果需要搜索，可以进入 Github 仓库进行搜索，因为 Mkdocs 内建的搜索功能不适合过大的文档，所以 Mkdocs 搜索功能已关闭。
@@ -70,7 +70,7 @@ ggame 的含义是 GGAME Game Archive Modify Encyclopedia。[^ggame]
 ## 搜索功能
 
 /punish 和 /news_archive 板块的绝大部分内容都被排除了。因为搜索功能的本质,是一个包含所有内容的 json 文件，
-目前大小为 2 MiB 左右（解压后为 10 MiB），如果太大就不利于加载了。
+目前大小为 2.3 MiB 左右（解压后为 12 MiB），如果太大就不利于加载了。
 
 <!--
     更好的中文分词搜索预计 Material for MkDocs 更新到 10.0.0 版本时就能使用，现在需要给搜索的词语间手动加上空格。
@@ -80,8 +80,8 @@ ggame 的含义是 GGAME Game Archive Modify Encyclopedia。[^ggame]
 
 > [!abstract] 任何问题都可以联系我：
 >
-> +   邮箱: cngledos@gmail.com
-> +   Telegram: [@gledos_green](https://t.me/gledos_green)
+> +   邮箱：<cngledos@gmail.com>
+> +   Telegram：[@gledos_green](https://t.me/gledos_green)
 > +   GitHub 仓库的 [issues](https://github.com/gledos/ggame/issues)
 
 ## 源文件

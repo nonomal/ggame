@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: "2025-07-12T17:35:13"
+date: "2025-10-04T16:12:50"
 tags:
 - 论坛
 - 腾讯
@@ -294,7 +294,7 @@ GreatFire 被控制的相关话题
 
 [^62239]: oooolongtea, 《[因为关注推特上某大 V，被请喝茶了。](https://www.v2ex.com/t/1062239)》, V2EX, 2024-08-03. (参照 2024-08-27).
 
-[^63336]: wangjie2016, 《[今天收到公安局打来的电话了](https://web.archive.org/web/20240807142124/https://www.v2ex.com/t/1063336)》, V2EX, 2024-08-07. (参照 2024-08-27).
+[^63336]: wangjie2016, 《[今天收到公安局打来的电话了](https://www.v2ex.com/t/1063336)》, V2EX, 2024-08-07. (参照 2024-08-27, [Internet Archive](https://web.archive.org/web/20240807142124/https://www.v2ex.com/t/1063336)).
 
 [^36f]: 帖子第 36 楼：「询问了一小时，现场要我下回来，看了下内容，然后自 ban 账号，让以后不要看，还等级了手机的 imei ，
     问会不会上不良记录，说不会，没写保证书什么的」
@@ -342,11 +342,23 @@ GreatFire 被控制的相关话题
 
 -->
 
+2020年3月，有人在 V2EX 分享了自己因为在微信提及一个人的名字，说别人是 primary school 文化，而被喝茶的故事。
+该帖子随后被完全移除，有可访问水深火热权限的帐号也无法访问，显示「主题未找到」「404 Topic Not Found」。[^63178][^11072]
+
+[^63178]: 既要又要还要, 《[V2EX｜Rexxar：昨天在微信群指点江山，我被请喝茶了](https://chinadigitaltimes.net/chinese/663178.html)》, 中国数字时代, 2021-03-02. (参照 2025-10-04, [Internet Archive](https://web.archive.org/web/20250221144830/https://chinadigitaltimes.net/chinese/663178.html)).
+
+[^11072]: duty-machine, 《[昨天微信群指点江山，被请喝茶了](https://telegra.ph/昨天微信群指点江山被请喝茶了-11-07-2)》, Telegraph, 2020-11-07. (参照 2025-10-04).
+
+原始发帖人也被降权，回复一次会扣 14（铜币），并且别人收不到回复提醒，发的新帖需要翻几页才能找到。
+因此只能换个帐号，来使用 V2EX 了。[^25912]
+
+[^25912]: Rexxar, 《[发了个作死贴进了水深火热，被降权了。](https://www.v2ex.com/t/725912)》, V2EX, 2020-11-16. (参照 2025-10-04).
+
 2024年8月23日，有开发者做了个 Android 软件，结果接到了<ruby>反诈中心<rt>96110</rt></ruby>的电话。
 在向工作人员解释这是自己开发的软件后，街道公安打来了电话，要求上访到家现场检查该软件。开发者疑惑的是，
 反诈中心究竟是如何知道该软件的存在？（完整细节请查看原贴）[^67365]
 
-[^67365]: Uynaity, 《[我自己做了个 Android 小软件，结果反诈中心打电话来了](https://web.archive.org/web/20240824011951/https://www.v2ex.com/t/1067365)》, V2EX, 2024-08-23. (参照 2024-08-27).
+[^67365]: Uynaity, 《[我自己做了个 Android 小软件，结果反诈中心打电话来了](https://www.v2ex.com/t/1067365)》, V2EX, 2024-08-23. (参照 2024-08-27, [Internet Archive](https://web.archive.org/web/20240824011951/https://www.v2ex.com/t/1067365)).
 
 ### 敏感词的研究
 
@@ -635,13 +647,13 @@ V2EX 没有直接修改已发送内容的功能，所以有人使用图片发送
 
 大概是因为将服务器迁移到大陆的原因，发帖用户必须进行手机号码的认证。
 
-2019年7月6日，V2EX 唯一的开发者 Livid，将网站的服务器与 CDN 迁往了美国，并在评论中称「代码中使用到的任何和中国大陆的
-Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V2EX_rcmls]
-以及「注册方式接下来肯定会改」「还需要一些时间(计划取消手机验证)」。[^V2EX_20190706]
+2019年7月6日，V2EX 唯一的开发者 Livid，将网站的服务器与 CDN 迁往了美国，并在评论中称：
+「代码中使用到的任何和中国大陆的Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^rcmls]
+以及「注册方式接下来肯定会改」「还需要一些时间(计划取消手机验证)」。[^90706]
 
-[^V2EX_rcmls]: [接下来会逐步去掉依赖关系 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20190713095113/https://www.v2ex.com/t/580480?p=1)
+[^rcmls]: [接下来会逐步去掉依赖关系 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20190713095113/https://www.v2ex.com/t/580480?p=1)
 
-[^V2EX_20190706]: [20190706 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20210130130836/https://www.v2ex.com/t/580480?p=3)
+[^90706]: [20190706 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20210130130836/https://www.v2ex.com/t/580480?p=3)
 
 不过截至 2021年1月，取消手机验证的计划还是没有实施。
 
@@ -649,7 +661,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 
 2006年5月11日 左右，V2EX 有用户咨询为什么注册时需要填写身份证号。Livid 亲切的解释了这个问题。[^109]
 
-[^109]: 隐藏人物, 《[为什么注册必填身份证号码？](https://web.archive.org/web/20061123122635/http://www.v2ex.com/topic/view/109.html)》, V2EX, 2006-05-11. (参照 2024-03-22).
+[^109]: 隐藏人物, 《为什么注册必填身份证号码？》, V2EX, 2006-05-11. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20061123122635/http://www.v2ex.com/topic/view/109.html)).
 
 > [!quote]+ Livid 的回复
 >
@@ -681,7 +693,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > 我想我应该尽量缩减自己，我不能也不会为了我不感兴趣的莫名其妙的利益去和他人死嗑。明白一件事情，我想要的是饱满的精神、
 > 激扬的斗志和充足的食欲。
 
-[^5319]: Livid, 《[Return of Solitude](https://web.archive.org/web/20101204171438/http://livid.cn/doc_view.php?doc_id=5319)》, Livid’s Paranoid, 2006-08-25. (参照 2024-03-23).
+[^5319]: Livid, 《Return of Solitude》, Livid’s Paranoid, 2006-08-25. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20101204171438/http://livid.cn/doc_view.php?doc_id=5319)).
 
 2006年9月8日，Livid 发布博文：
 
@@ -695,7 +707,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > [ [这个](https://web.archive.org/web/20061023051746/http://www.v2ex.com/new_features.html) ] 之后欢迎您去
 > [ V2EX ] 大说特说想说就说，[ V2EX ] 就是一个传说中 mostly write only 的地方，如此甚好。
 
-[^5446]: Livid, 《[Read Only](https://web.archive.org/web/20061028155535/http://www.livid.cn/doc_view.php?doc_id=5446)》, Livid’s Paranoid, 2006-09-08. (参照 2024-03-23).
+[^5446]: Livid, 《Read Only》, Livid’s Paranoid, 2006-09-08. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20061028155535/http://www.livid.cn/doc_view.php?doc_id=5446)).
 
 附言：这算是正式关闭博客的评论／留言功能。
 
@@ -714,7 +726,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > 在这个世界上存在着各种各样的可能让你上瘾的事情，但是其中的大部分都不是健康的事情，
 > 这样的上瘾会在很多时候**遮盖这个美好世界的本来面目**，如此。以上。
 
-[^5459]: Livid, 《[钱的意义？](https://web.archive.org/web/20061028155151/http://www.livid.cn/doc_view.php?doc_id=5459)》, Livid’s Paranoid, 2006-09-20. (参照 2024-03-23).
+[^5459]: Livid, 《钱的意义？》, Livid’s Paranoid, 2006-09-20. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20061028155151/http://www.livid.cn/doc_view.php?doc_id=5459)).
 
 2006年9月，Livid 博客的简介被更换。从较长的：
 
@@ -731,11 +743,11 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > 于 2005 年 1 月 10 日基于自创的 vik|engine 内容管理发布系统创建此 Blog，至今已有 602 天，其间发布的 657 篇文章被阅读了
 > 1621369+1526781 次，平均每篇 2467.84 次，平均每个星期 7.64 篇文章。
 
-[^93947]: Livid, 《[Livid’s Paranoid](https://web.archive.org/web/20060903093947/http://livid.cn:80/)》, Livid’s Paranoid, 2006-09-03. (参照 2024-03-23).
+[^93947]: Livid, 《Livid’s Paranoid》, Livid’s Paranoid, 2006-09-03. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20060903093947/http://livid.cn:80/)).
 
-[^72243]: 《[极客社区 V2EX](https://web.archive.org/web/20240323061423/https://www.lifeweek.com.cn/article/172243)》, 2007年第3期《炒基金的22条“军规”》. (参照 2024-03-23).
+[^72243]: 《极客社区 V2EX》, 2007年第3期《炒基金的22条“军规”》. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20240323061423/https://www.lifeweek.com.cn/article/172243)).
 
-[^6488]: 孤独进化论, 《[Livid和v2ex上了三联周刊了](https://web.archive.org/web/20070117040107/http://www.v2ex.com/topic/view/6488.html)》, V2EX, 2007-01-11. (参照 2024-03-23).
+[^6488]: 孤独进化论, 《Livid和v2ex上了三联周刊了》, V2EX, 2007-01-11. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20070117040107/http://www.v2ex.com/topic/view/6488.html)).
 
 更换为：
 
@@ -746,7 +758,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > 于 2005 年 1 月 10 日基于自创的 vik|engine 内容管理发布系统创建此 Blog，至今已有 628 天，其间发布的 677 篇文章被阅读了
 > 1731743+1690240 次，平均每篇 2557.97 次，平均每个星期 7.52 篇文章。
 
-[^51930]: Livid, 《[Livid’s Paranoid](https://web.archive.org/web/20060929051930/http://www.livid.cn:80/)》, Livid’s Paranoid, 2006-09-29. (参照 2024-03-23).
+[^51930]: Livid, 《Livid’s Paranoid》, Livid’s Paranoid, 2006-09-29. (参照 2024-03-23, [Internet Archive](https://web.archive.org/web/20060929051930/http://www.livid.cn:80/)).
 
 2007年1月11日 16 时开始，Livid 的服务器，因为「上级主管部门」的通知，被拔掉了我服务器上的网线。V2EX 也因此离线。
 
@@ -771,16 +783,16 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > always being creative, I’m smart and I’m nice to everyone, I used to make wealth and knowledge for this land, but this
 > land just cannot allow me to be a nice “good” man, so, what else can I do?
 
-[^immo3]: Livid, 《[Run! Run! Run!](https://web.archive.org/web/20070114101244/http://www.livid.cn/immortal/?p=3)》, Livid’s Immortal, 2007-01-12. (参照 2024-03-22).
+[^immo3]: Livid, 《Run! Run! Run!》, Livid’s Immortal, 2007-01-12. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20070114101244/http://www.livid.cn/immortal/?p=3)).
 
-[^85701]: 月亮上的石头, 《[愤怒的一天，V2EX被停](https://web.archive.org/web/20070913223239/http://www.douban.com/group/topic/1385701/)》, 豆瓣网, 2007-01-13. (参照 2024-03-22).
+[^85701]: 月亮上的石头, 《愤怒的一天，V2EX被停》, 豆瓣网, 2007-01-13. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20070913223239/http://www.douban.com/group/topic/1385701/)).
 
-[^22942]: 阮一峰, 《[这就是我们叫做“祖国”的地方](https://web.archive.org/web/20070120022942/http://www.ruanyifeng.com/blog/2007/01/a_land_we_call_homeland.html)》, 阮一峰的网络日志, 2007-01-13. (参照 2024-03-22).
+[^22942]: 阮一峰, 《这就是我们叫做“祖国”的地方》, 阮一峰的网络日志, 2007-01-13. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20070120022942/http://www.ruanyifeng.com/blog/2007/01/a_land_we_call_homeland.html)).
 
 期间 Livid 可能还说过「我的 blog，我的社区，我朋友们放在这里的 blog，我做的网上辞典，我的文档，我的 svn 版本控制……
 现在全部都没法用了。」[^81946]
 
-[^81946]: Evan, 《[さようなら，V2EX](https://web.archive.org/web/20071213194821/http://www.freemagi.com/2007/09/06/goodbye-v2ex/)》, FreeMAGi, 2007-09-06. (参照 2024-03-22).
+[^81946]: Evan, 《さようなら，V2EX》, FreeMAGi, 2007-09-06. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071213194821/http://www.freemagi.com/2007/09/06/goodbye-v2ex/)).
 
 两天后，Livid 发文回应了关心他的朋友。
 
@@ -804,7 +816,7 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 > 我认为我在做这些创新的时候，我并不需要去征得谁的同意，我更不需要谁来给我限定一个所谓 guideline of innovation，
 > 世界最终是平的。
 
-[^immo5]: Livid, 《[I’m Ok](https://web.archive.org/web/20080209220341/http://www.livid.cn/immortal/?p=5)》, Livid’s Immortal, 2007-01-14. (参照 2024-03-22).
+[^immo5]: Livid, 《I’m Ok》, Livid’s Immortal, 2007-01-14. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20080209220341/http://www.livid.cn/immortal/?p=5)).
 
 <!--
 Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了。
@@ -812,7 +824,7 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 
 2007年1月17日，V2EX 恢复。[^5544]
 
-[^5544]: Livid, 《[累](https://web.archive.org/web/20080209205832/http://www.livid.cn/doc_view.php?doc_id=5544)》, Livid’s Paranoid, 2007-02-10. (参照 2024-03-22).
+[^5544]: Livid, 《累》, Livid’s Paranoid, 2007-02-10. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20080209205832/http://www.livid.cn/doc_view.php?doc_id=5544)).
 
 2007年9月 月初，V2EX 遭到 GFW 封锁。
 
@@ -846,15 +858,15 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 > 我目前暂时想不到有什么比较稳妥的方法能够恢复，从今年一月时候遭遇的第一次冲击，到现在的第二次，中途已经有
 > 很多东西都被改变了。如果你有什么建设性的想法，写信给我吧: v2ex.livid@mac.com
 
-[^5636]: Livid, 《[2007.9.5](https://web.archive.org/web/20071011211228/http://livid.cn/doc_view.php?doc_id=5636)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+[^5636]: Livid, 《2007.9.5》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071011211228/http://livid.cn/doc_view.php?doc_id=5636)).
 
 站长 Livid 随后发布帖子，提供了能够代理的软件供用户使用。[^17659][^5638][^5637]
 
-[^17659]: Livid, 《[V2EX 访问方法](https://web.archive.org/web/20071011043814/http://v2ex.com/topic/view/17659.html)》, V2EX, 2007-09-06. (参照 2024-03-22).
+[^17659]: Livid, 《V2EX 访问方法》, V2EX, 2007-09-06. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071011043814/http://v2ex.com/topic/view/17659.html)).
 
-[^5638]: Livid, 《[V2EX 访问方法 - Mac，Linux 及任何可以运行 J2SE 的平台适用](https://web.archive.org/web/20071011211234/http://livid.cn/doc_view.php?doc_id=5638)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+[^5638]: Livid, 《V2EX 访问方法 - Mac，Linux 及任何可以运行 J2SE 的平台适用](https://web.archive.org/web/20071011211234/http://livid.cn/doc_view.php?doc_id=5638)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22, [Internet Archive).
 
-[^5637]: Livid, 《[V2EX 访问方法 - Windows 适用](https://web.archive.org/web/20071011195332/http://www.livid.cn/doc_view.php?doc_id=5637)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+[^5637]: Livid, 《V2EX 访问方法 - Windows 适用》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071011195332/http://www.livid.cn/doc_view.php?doc_id=5637)).
 
 2007年9月6日，Livid 在 V2EX 发帖：
 
@@ -866,7 +878,7 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 >
 > 难道现在的中国就只需要高污染的工厂和亩产千斤的稻田？
 
-[^17666]: Livid, _[Internet Industry in China](https://web.archive.org/web/20071012144552/http://v2ex.com/topic/view/17666.html)_, V2EX, 2007-09-06. (参照 2024-03-22).
+[^17666]: Livid, _[Internet Industry in China_, V2EX, 2007-09-06. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071012144552/http://v2ex.com/topic/view/17666.html)).
 
 2007年9月19日，有人转载了 Livid 的两次发言。
 
@@ -880,11 +892,11 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 >
 > 2，如果现在的这一系列的做法可以被称为极左的话，那么毫无疑问我是个向往自由相信天赋人权的 right wing。
 
-[^20319]: 陈朝阳, 《[自由。迟疑](https://web.archive.org/web/20130909220319/http://gui.su/2007/09/)》, gui.su, 2007-09-19. (参照 2024-03-22).
+[^20319]: 陈朝阳, 《自由。迟疑》, gui.su, 2007-09-19. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20130909220319/http://gui.su/2007/09/)).
 
 2007年9月26日 左右，Livid 在 V2EX 发帖：_Learn about Democracy_，不过内容并没有被 Internet Archive 保存。[^32802]
 
-[^32802]: 《[Livid](https://web.archive.org/web/20070928132802/http://www.v2ex.com/u/Livid)》, V2EX, 2007-09-28. (参照 2024-03-22).
+[^32802]: 《Livid》, V2EX, 2007-09-28. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20070928132802/http://www.v2ex.com/u/Livid)).
 
 2007年10月5日，Livid 发布博文：
 
@@ -911,7 +923,7 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 > 于是他们一边做那些可鄙之事一边抱怨这个社会对他们不公平，抱怨这个国家没有民主，抱怨物价不停在涨。而世间万物是有联系的，
 > 抱怨的时候想想自己做过些什么事情吧。反正我是没有心情和这些无聊的傻逼玩的。
 
-[^5655]: Livid, 《[人心](https://web.archive.org/web/20071011211335/http://livid.cn/doc_view.php?doc_id=5655)》, Livid’s Paranoid, 2007-10-05. (参照 2024-03-22).
+[^5655]: Livid, 《人心》, Livid’s Paranoid, 2007-10-05. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20071011211335/http://livid.cn/doc_view.php?doc_id=5655)).
 
 2007年10月30日，Livid 在豆瓣网发文：
 
@@ -937,4 +949,4 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 >
 > 祝福世界和平。
 
-[^33745]: Livid, 《[表明我的政治立场](https://web.archive.org/web/20080106201015/http://www.douban.com/group/topic/2133745/)》, 豆瓣网, 2007-10-30. (参照 2024-03-22).
+[^33745]: Livid, 《表明我的政治立场》, 豆瓣网, 2007-10-30. (参照 2024-03-22, [Internet Archive](https://web.archive.org/web/20080106201015/http://www.douban.com/group/topic/2133745/)).

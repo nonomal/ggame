@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2025-09-06T16:26:09"
+date: "2025-10-04T16:56:32"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -218,6 +218,12 @@ GFW 修改内容为 a28z，也许有些多此一举，应该可以无感知的�
 时间来到 20 ~ 30 年后，也许 GFW 外已经禁用了不安全的协议，而在 GFW 内，依然使用着不安全的协议，这就是另一种分裂网风险。
 
 ## 其他时间线
+
+### 2021年5月 屏蔽 vercel
+
+2021年5月16日，有用户发现 GFW 墙了 `vercel.com`、`vercel.app` 域名。[^gh566]
+
+[^gh566]: xinjiajuan, 《[【关于vercel被墙】vercel在国内被墙 · Issue #566 · travellings-link/travellings](https://github.com/travellings-link/travellings/issues/566)》, GitHub, 2021-05-16. (参照 2025-10-04, [Internet Archive](https://web.archive.org/web/20240715085252/https://github.com/travellings-link/travellings/issues/566)).
 
 ### 2023年8月5日 河南审查加强
 
